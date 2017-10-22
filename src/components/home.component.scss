@@ -74,17 +74,26 @@ div.center {
     float:left;
     width:70%;
     font-family:sans-serif;
+    color:purple;
 
     .center-text {
-        color:purple;
         margin-top:8em;
         display:block;
         text-align:middle;
         width:100%;
     }
 
+    .photos-link-description {
+        margin-top:3em;
+
+        .photos-link.arrow {
+            display:block;
+        }
+    }
+
     .photos-link-text {
-        margin-top: 2em;
+        margin-top:2em;
+        margin-bottom:5em;
     }
 }
 
