@@ -9,7 +9,7 @@ import * as Components from '../components';
   declarations: [
     AppComponent,
     Components.HomeComponent,
-    Components.PhotosComponent,
+    Components.PhotosComponent
   ],
   imports: [
     BrowserModule,
