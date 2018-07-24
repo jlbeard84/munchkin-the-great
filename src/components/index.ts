@@ -1,2 +1,2 @@
-export { HomeComponent } from './home.component';
-export { PhotosComponent } from './photos.component';
+export { HomeComponent } from './home/home.component';
+export { PhotosComponent } from './photos/photos.component';
